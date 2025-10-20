@@ -17,3 +17,6 @@ Hosted on Netlify for fast and free deployment
 HTML5
 CSS3
 Netlify (for deployment)
+
+---
+Created by **Natalia Smyrnova**
